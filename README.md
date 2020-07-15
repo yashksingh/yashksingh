@@ -1,4 +1,8 @@
 ### Hi there 👋
+I am an undergraduate looking for opportunities in projects related to Web Development.
+
+- 🔭 I’m currently working on Portfolio Website. 
+- 🌱 I’m currently learning Backend stuffs.
 
 <!--
 **yashksingh/yashksingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
