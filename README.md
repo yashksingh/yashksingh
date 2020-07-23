@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Yash Kumar Singh 👋
 I am an undergraduate looking for opportunities in projects related to Web Development.
 
 - 🔭 I’m currently working on JavaScript Projects. 
