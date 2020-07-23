@@ -6,6 +6,8 @@ I am an undergraduate looking for opportunities in projects related to Web Devel
 - 👯 I’m looking to collaborate on Opensource Projects.
 - 💬 Ask me about Front End Development.
 - ⚡ Fun fact: Trying to get rid of errors.
+- 📫 How to reach me: Twitter - @yashksingh22
+
 <!--
 **yashksingh/yashksingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
