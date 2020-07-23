@@ -1,5 +1,5 @@
 ## Hi, I'm Yash Kumar Singh 👋
-Profile Hits: https://camo.githubusercontent.com/f5ec43d980c4092aa24af02f8f36719565efe398/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d64656570657368676172673039
+ <img src="https://camo.githubusercontent.com/f5ec43d980c4092aa24af02f8f36719565efe398/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d64656570657368676172673039">
 
 <a href="https://twitter.com/yashksingh22">
   <img align="left" alt="Yash's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
