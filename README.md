@@ -13,7 +13,7 @@
 <a href="https://www.instagram.com/_yks.im/">
   <img align="left" alt="Yash's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/Yash Singh/">
+<a href="https://www.facebook.com/profile.php?id=100021930617470">
   <img align="left" alt="Yash's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br/>
