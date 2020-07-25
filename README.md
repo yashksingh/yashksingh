@@ -41,7 +41,7 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="50" src="https://camo.githubusercontent.com/7c552f75a4d2923a82d209899be31bbf298064c9/68747470733a2f2f6b6f6e70612e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f63706c7573706c75732f63706c7573706c75732d6f726967696e616c2e737667"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="50" src="https://avatars2.githubusercontent.com/u/18133?v=4"></code>
 
 <br/>
