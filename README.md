@@ -23,7 +23,7 @@
 
 - 🔭 I’m currently working on Bootstrap Projects. 
 - 🌱 I’m currently learning Backend stuff and MySQL.
-- 👯 I’m looking to collaborate on Opensource Projects.
+- 👯 I’m looking to collaborate on Opensource Project.
 - 💬 Ask me about Front End Development.
 - ⚡ Fun fact: Trying to get rid of errors.
 - 📫 How to reach me: Twitter - [Twitter - @yashksingh22](https://twitter.com/yashksingh22) , LinkedIn - [LinkedIn - @yashksingh22](https://www.linkedin.com/in/yashksingh22/)
