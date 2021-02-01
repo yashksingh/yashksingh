@@ -21,7 +21,7 @@
 
 **About Me: I am a Final Year Undergraduate student in Chemical Engineering from NIT Raipur. I am  looking for opportunities in projects related to Web Development.**
 
-- 🔭 I’m currently learning JavaScript Algorithm and DS. 
+- 🔭 I’m currently learning Algorithm and DS. 
 - 🌱 I’m currently learning Backend stuff.
 - 👯 I’m looking to collaborate on Open source Project.
 - 💬 Ask me about Front End Development.
